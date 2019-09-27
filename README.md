@@ -5,4 +5,4 @@
 - Select Normal or VIP Vehicle type for putting vehicles in separated lanes
 
 
-Raise a issue if you have any problem in running this app.
+Raise issue if you have any problem in running this app.
